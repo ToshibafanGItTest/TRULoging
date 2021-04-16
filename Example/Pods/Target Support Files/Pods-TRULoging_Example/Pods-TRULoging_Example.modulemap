@@ -1,0 +1,6 @@
+framework module Pods_TRULoging_Example {
+  umbrella header "Pods-TRULoging_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

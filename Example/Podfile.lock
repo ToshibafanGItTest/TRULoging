@@ -1,0 +1,22 @@
+PODS:
+  - TRULoging (0.1.0):
+    - TRUNeteorking
+  - TRUNeteorking (0.1.0)
+
+DEPENDENCIES:
+  - TRULoging (from `../`)
+  - TRUNeteorking (from `../../TRUNeteorking`)
+
+EXTERNAL SOURCES:
+  TRULoging:
+    :path: "../"
+  TRUNeteorking:
+    :path: "../../TRUNeteorking"
+
+SPEC CHECKSUMS:
+  TRULoging: d45b8adccb85223df5530cacbfd601071b1e1e0f
+  TRUNeteorking: 6237c698d04f16803f1206657175b86d0ec38de7
+
+PODFILE CHECKSUM: f996595821c3d317d6c32df3d840be06790a1213
+
+COCOAPODS: 1.9.1

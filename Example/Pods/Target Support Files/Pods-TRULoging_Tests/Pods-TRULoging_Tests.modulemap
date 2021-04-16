@@ -1,0 +1,6 @@
+framework module Pods_TRULoging_Tests {
+  umbrella header "Pods-TRULoging_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
